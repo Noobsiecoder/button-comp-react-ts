@@ -100,7 +100,7 @@ const ButtonComponents = () => {
         </div>
         <div className="space-y-6">
           <div className="space-y-4">
-            <ButtonInfo info="<Button color=”secondary” />" />
+            <ButtonInfo info="<Button color=”danger” />" />
             <Button buttonLabel="Danger" buttonStyle={buttonVariant.DangerButton} />
           </div>
           <div className="space-y-4">
